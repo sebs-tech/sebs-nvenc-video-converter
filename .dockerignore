@@ -1,0 +1,3 @@
+# Ignore .mkv and .mp4 files
+*.mkv
+*.mp4

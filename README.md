@@ -1,4 +1,4 @@
-# Seb's Nvenc Video Converter 
+# Seb's Video Converter 
 
 Docker to convert videos in mp4 format using ffmpeg (nvenc) 
 ```bash

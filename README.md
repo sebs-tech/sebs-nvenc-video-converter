@@ -14,3 +14,9 @@ docker build -t sebs-video-converter .
 ```bash
 docker run -p 5000:5000 --rm --gpus all sebs-video-converter
 ```
+
+### Todo
+- Add features like:
+  - Stats on conversion
+  - User Presets
+  - etc ...
